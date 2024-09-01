@@ -1,0 +1,5 @@
+# ignorar otros archivos específicos
+__pycache__/
+
+# Ignorar archivos de configuración del entorno
+env/
